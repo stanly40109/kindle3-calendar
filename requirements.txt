@@ -1,2 +1,1 @@
 Pillow>=10,<12
-holidays>=0.50,<1
